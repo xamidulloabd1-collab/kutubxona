@@ -10,7 +10,7 @@ const booksDatabase = [
   genre: "Ertak",
   year: 1865,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-gjjFmE2kFt4TnAPGx8La_VXk6SEa1rZghGzhUfEyA&s=10",
-  pdfUrl: "/books/Alisa mo'jizalar mamlakatida.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/alisa.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -23,7 +23,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/amerika.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -36,7 +36,7 @@ const booksDatabase = [
   genre: "klassik detektiv",
   year: 1892,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFBc2gn3VflW0kYxBK9zsluRBS8JkPymOo5FEXZlV1mw&s=10",
-  pdfUrl: "/books/Artur Konan Doyl. Sherlok Xolms haqida hikoyalar.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/artur.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -48,7 +48,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7cdIqOGOdPVErDIih91k2l3TY9eQ8K-plVFjW05C-g&s=10",
-  pdfUrl: "/books/Asqad Muxtor. Chinor (roman).pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/chinor.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -60,7 +60,7 @@ const booksDatabase = [
   genre: "Qissa",
   year: 1970,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k1jZSh4QwlqvJsoKkcCBAT3oLRcQ6C3pvkWVpEOlig&s=10",
-  pdfUrl: "/books/oq kema  [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/kema.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -72,7 +72,7 @@ const booksDatabase = [
   genre: "Xotira daftaridan parchalar, hayotiy hikoyalar va esdaliklar.",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/amerika.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -84,7 +84,7 @@ const booksDatabase = [
   genre: "Qissa",
   year: 1952,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-Fzrg2RKRmgU93Owcy4rNWEcsoeoh0Un6wZliiujmw&s=10",
-  pdfUrl: "/books/Chol va dengiz. Ernest Xaminguey.(1).pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/chol.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -96,7 +96,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1865,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGPaYNeT0jqSaC_6EJtiZPLlHAvmKknHr28Q_c3zlQg&s=10",
-  pdfUrl: "/books/Jinoyat va jazo  [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/jazo.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -108,7 +108,7 @@ const booksDatabase = [
   genre: "To'plam",
   year: 1994,
   image: "https://e-library.sammu.uz/books/image/1652954538.jpg",
-  pdfUrl: "/books/Fozil odamlar shahri - Abu Nasr Farobiy.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/fozil.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -120,7 +120,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 2015,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHNCuZGu1ZBfnLmXz07CdFC2qii5egYI0frp4ywIufA&s=10",
-  pdfUrl: "/books/97. Otalar va bolalar.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/ota.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -132,7 +132,7 @@ const booksDatabase = [
   genre: "Roman",
   year: "1868-1938",
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmw2Ce2TLdxSFcuN_JqlDGnDYhFxmL43AjywLnJS2UQ&s=10",
-  pdfUrl: "/books/Ichindagi ichindadur.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/ich.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -144,7 +144,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1906,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoLHlhfvSIFa2b51e7-qvK8e28EcVgCnWPlgKmcC0sSg&s=10",
-  pdfUrl: "/books/Jek London - Oq so‘yloq.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/jek.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -192,7 +192,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1969,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLwyIq5ee__UbHG6nyR1S9v8qM8zLjmz3FSp-sa_foA&s=10",
-  pdfUrl: "/books/oʻtgan kunlar kitobi.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/utgan.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -216,7 +216,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1850,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7RQ5Fqj-FnvbuPToi8l6yXUptF-dpHwGKtVROKc8xA&s=10",
-  pdfUrl: "/books/158. Merosxo'r.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/meros.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -228,7 +228,7 @@ const booksDatabase = [
   genre: "Qissa",
   year: 1982,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFglIrx7p-6vkrINY4YamZ8Kdo9ythIrQmuNnlCG5NyQ&s=10",
-  pdfUrl: "/books/Sudxo'rning o'limi  [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/sudxur.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -251,7 +251,7 @@ const booksDatabase = [
   author: "Tohir Malik",
   genre: "Roman",
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcfWBZidl6WPBW9Pq35S63VL9ZExCKCndIUT3QuOAnEA&s=10",
-  pdfUrl: "/books/Tohir Malik. Alvido bolalik.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/alvido.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -263,7 +263,7 @@ const booksDatabase = [
   genre: "Ertak",
   year: 2013,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibH1W6DqIlL5AFHY-sTQuC88cLpglpdXFdrXOWrEERw&s=10",
-  pdfUrl: "/books/Uch og'ayni  [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/uch.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -275,7 +275,7 @@ const booksDatabase = [
   genre: "Roman-Ertak",
   year: 1960,
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF9_G1JA2WwLYHDuiQrBFieM4uiiY2I3VDPxllhn1xFg&s=10",
-  pdfUrl: "/books/Yuriy Olesha. Uch baqaloq [@e_kutubxona].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/baqaloq.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
