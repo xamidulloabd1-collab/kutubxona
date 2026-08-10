@@ -156,7 +156,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -168,7 +168,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -180,7 +180,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -204,7 +204,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -240,7 +240,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
@@ -287,7 +287,7 @@ const booksDatabase = [
   genre: "Roman",
   year: 1925,
   image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-  pdfUrl: "/books/Amerika fojiasi 1-kitob [@kitob_pdf_yuklabot].pdf", // Mana shu tarzda yo'lini ko'rsatasiz
+  pdfUrl: "/books/.pdf", // Mana shu tarzda yo'lini ko'rsatasiz
   pages: [
     "1-sahifa matni...",
     "2-sahifa matni..."
