@@ -301,7 +301,6 @@ function App() {
   const [selectedBook, setSelectedBook] = useState(null);
   const [isReading, setIsReading] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
-
   const filteredBooks = books.filter(book => 
     book.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
     book.author.toLowerCase().includes(searchTerm.toLowerCase())
