@@ -265,22 +265,37 @@ function App() {
 
   return (
     <div className="App">
-      <header className="header">
-        <div className="container">
-          <h1>📚 ShurtanKutubxona</h1>
-          <p>Barcha sara asarlar va to'liq sahifalangan mukammal elektron kutubxona tizimi</p>
-          <div className="search-bar">
+      <header className="header" style={{ padding: '30px 20px', textAlign: 'center', background: '#0b192c', color: '#fff' }}>
+        <div className="container" style={{ maxWidth: '1100px', margin: '0 auto' }}>
+          
+          {/* 🏢 Logo va Tashkilot nomi */}
+          <div className="logo-section" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '20px', marginBottom: '15px', flexWrap: 'wrap' }}>
+            <img 
+              src="/logo.png" 
+              alt="Shurtan NGQCHB Logo" 
+              style={{ width: '85px', height: '85px', objectFit: 'contain', borderRadius: '12px', background: '#fff', padding: '5px', boxShadow: '0 4px 10px rgba(0,0,0,0.3)' }} 
+            />
+            <h1 style={{ fontSize: '24px', fontWeight: 'bold', margin: 0, textAlign: 'left', lineHeight: '1.4' }}>
+              Sho’rtan Neft va Gaz qazib chiqarish boshqarmasi <br />
+              <span style={{ fontSize: '18px', color: '#38bdf8', fontWeight: 'normal' }}>Ma’naviyat va Ma’rifat markazi kutubxonasi</span>
+            </h1>
+          </div>
+
+          <p style={{ color: '#cbd5e1', fontSize: '15px', marginBottom: '25px' }}>Barcha sara asarlar va to'liq sahifalangan mukammal elektron kutubxona tizimi</p>
+          
+          <div className="search-bar" style={{ display: 'flex', justifyContent: 'center' }}>
             <input 
               type="text" 
               placeholder="Kitob nomi yoki muallifni izlash..." 
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
+              style={{ width: '100%', maxWidth: '500px', padding: '12px 20px', borderRadius: '30px', border: 'none', outline: 'none', fontSize: '16px', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}
             />
           </div>
         </div>
       </header>
 
-      <main className="main-content container">
+      <main className="main-content container" style={{ padding: '30px 20px', maxWidth: '1200px', margin: '0 auto' }}>
         <div className="books-grid">
           {filteredBooks.length > 0 ? (
             filteredBooks.map(book => (
@@ -342,7 +357,7 @@ function App() {
         </div>
       )}
 
-      <footer className="footer">
+      <footer className="footer" style={{ textAlign: 'center', padding: '20px', background: '#0b192c', color: '#fff', marginTop: '40px' }}>
         <p>&copy; 2026 ShurtanKutubxona. Barcha huquqlar himoyalangan.</p>
       </footer>
     </div>
