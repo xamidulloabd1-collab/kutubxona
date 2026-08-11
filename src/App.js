@@ -165,12 +165,12 @@ const booksDatabase = [
   },
   {
     id: 17,
-    title: "Amerika Fojiasi",
-    author: "Teador Drayzer",
-    genre: "Roman",
-    year: 1925,
-    image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-    pdfUrl: "/books/amerika.pdf",
+    title: "Qor Odam",
+    author: "Hans Christan Andersen",
+    genre: "Ertak",
+    year: 1861,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJ48zFk3VrFcsHxDy8gHLIMvhYSWZw0razOuNOwmMxg&s=10",
+    pdfUrl: "/books/qor.pdf",
     pages: ["1-sahifa matni...", "2-sahifa matni..."]
   },
   {
@@ -195,12 +195,12 @@ const booksDatabase = [
   },
   {
     id: 20,
-    title: "Amerika Fojiasi",
-    author: "Teador Drayzer",
+    title: "O'n sakkizga kirmagan kim bor",
+    author: "Shukur Xolmirzayev",
     genre: "Roman",
-    year: 1925,
-    image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-    pdfUrl: "/books/amerika.pdf",
+    year: 1964,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeNDsFdeoIZ0xqP4kGgeTQNlomEOvyW2f0CnqxrtPJA&s=10",
+    pdfUrl: "/books/kim.pdf",
     pages: ["1-sahifa matni...", "2-sahifa matni..."]
   },
   {
@@ -235,12 +235,12 @@ const booksDatabase = [
   },
   {
     id: 24,
-    title: "Amerika Fojiasi",
-    author: "Teador Drayzer",
+    title: "Bahor keldi",
+    author: "Zulfiya",
     genre: "Roman",
     year: 1925,
     image: "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/003_boshqalar/002_badiy/2022/web-amerika-fojiasi-1-550x550h.png",
-    pdfUrl: "/books/amerika.pdf",
+    pdfUrl: "/books/bahor.pdf",
     pages: ["1-sahifa matni...", "2-sahifa matni..."]
   }
 ];
